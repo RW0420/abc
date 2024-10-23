@@ -1,0 +1,9 @@
+Flask
+Flask-SocketIO
+google-cloud-vision
+opencv-python
+numpy
+requests
+Pillow
+beautifulsoup4
+selenium
